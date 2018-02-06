@@ -1,2 +1,2 @@
 # fam
-A decentralized social network
+A decentralized social network.
